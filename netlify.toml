@@ -1,0 +1,6 @@
+# Netlify Configuration for THE WEATHER POINT
+[build]
+  publish = "."
+
+[site]
+  name = "the-weather-point"
