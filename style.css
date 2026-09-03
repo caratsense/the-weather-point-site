@@ -1143,3 +1143,28 @@ textarea.form-control {
     text-align: center;
   }
 }
+
+/* Registered entity details (Meta / GST business verification) */
+.legal-entity {
+  padding-top: 1.75rem;
+  padding-bottom: 1.5rem;
+  border-top: 1px solid #1E293B;
+}
+
+.legal-entity h4 {
+  color: #FFFFFF;
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.legal-entity address {
+  font-style: normal;
+  font-size: 0.88rem;
+  line-height: 1.75;
+  color: #94A3B8;
+}
+
+.entity-address {
+  font-style: normal;
+  line-height: 1.75;
+}
